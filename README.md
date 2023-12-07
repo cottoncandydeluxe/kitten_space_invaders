@@ -1,3 +1,7 @@
+
+![python_APodyEFcJ5](https://github.com/cottoncandydeluxe/kitten_space_invaders/assets/114254829/7034c4f0-4370-4a23-8e28-1be3576025f7)
+
+
 # kitten_space_invaders
 Kitten sprite avoids falling stars and tries to survive until the end. 
 
