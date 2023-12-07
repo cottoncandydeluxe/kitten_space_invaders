@@ -1,6 +1,8 @@
 # kitten_space_invaders
 Kitten sprite avoids falling stars and tries to survive until the end. 
 
+Need: python and pygames installed on your machine. 
+
 Goal: Make the kitten (the grey box) avoid the 'falling stars' (little white rectangles). Survive all 4 levels until the end of the rave concert.
 Controls: up, down, left, right arrow keys ---> move
           space bar ---> makes the character say "meow"     
