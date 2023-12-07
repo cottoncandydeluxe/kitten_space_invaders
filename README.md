@@ -1,4 +1,5 @@
-![image](https://github.com/cottoncandydeluxe/kitten_space_invaders/assets/114254829/58e348c1-291b-4732-99ec-967e0f31ade3)
+![image](https://github.com/cottoncandydeluxe/kitten_space_invaders/assets/114254829/267d8a4e-562a-4db0-a48d-936cfe7d09af)
+
 
 
 # kitten_space_invaders
